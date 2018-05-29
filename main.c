@@ -3,7 +3,7 @@
 #define SIZE 10
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
-void bubbleSort( int *const array,unsigned int size ); /*獶盽计戈盽计夹*/
+void bubbleSort(const int *const array,unsigned int size ); /*盽计戈盽计夹*/
 
 int main(void) {
 

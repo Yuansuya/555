@@ -1,6 +1,6 @@
 #define SIZE 10
 
-void bubbleSort( int *const array ,unsigned int size )/*獶盽计戈盽计夹*/
+void bubbleSort(const int *const array ,unsigned int size )/*盽计戈盽计夹*/
 	{
 		void swap(int *element1Ptr, int *element2Ptr );
 		unsigned int pass;
